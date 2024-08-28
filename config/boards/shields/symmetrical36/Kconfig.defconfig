@@ -1,0 +1,7 @@
+
+if SHIELD_SYMMETRICAL36
+
+config ZMK_KEYBOARD_NAME
+    default "Symmetrical 36"
+
+endif
